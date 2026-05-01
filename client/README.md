@@ -18,7 +18,7 @@ Cloudinary is a cloud-based service that helps developers and businesses store, 
 
 npm install
 
-6. Run projec using command
+6. Run project using command
 
 npm run dev
 
