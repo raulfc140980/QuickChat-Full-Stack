@@ -22,4 +22,8 @@ npm install
 
 npm run dev
 
+7. To see the project deployed online and interact with it open the link:
+
+https://quick-chat-client-eight-alpha.vercel.app/login
+
 
